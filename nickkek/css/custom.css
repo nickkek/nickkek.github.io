@@ -1,0 +1,63 @@
+
+body{
+	font-family: times;
+}
+
+
+
+.fa-facebook-square{
+	color:   #5c8a8a;
+	float:right;
+}
+
+.fa-instagram{
+	color:  #5c8a8a;
+	float:right;
+}
+
+.fa-envelope-o{
+	color: #5c8a8a;
+	float:right;
+}
+
+
+}
+
+.text-center{
+	border-color: white;
+}
+
+.no-white{
+	border-color: white;
+
+}
+
+
+
+.relative{
+	position:relative;
+	display:inline-block;
+	width:400px;
+	margin-right: 25px;
+
+}
+
+.absolute-text{
+	position:absolute;
+	bottom:0;
+	font-size:28px;
+	font-family: times;
+	padding:10px;
+	width:100%;
+	text-align:center;
+}
+
+.absolute-text2{
+	position:absolute;
+	bottom:-8;
+	font-size:13px;
+	font-family: times;
+	font-style: italic;
+	padding:10px;
+	width:100%;
+	text-align:center;
