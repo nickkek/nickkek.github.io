@@ -1,7 +1,11 @@
+html{
+	height:100%;
+}
 
 body{
 	font-family: times;
-}
+	height: 100%;
+	}
 
 
 
@@ -61,3 +65,13 @@ body{
 	padding:10px;
 	width:100%;
 	text-align:center;
+}
+
+.link
+{
+   color:#5c8a8a;
+   text-decoration: none; 
+   background-color: none;
+   display: inline;
+}
+
